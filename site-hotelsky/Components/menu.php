@@ -37,7 +37,7 @@
           <div class="offcanvas-body">
             <ul class="navbar-nav justify-content-end flex-grow-1 pe-3">
               <li class="nav-item"><a class="nav-link active" aria-current="page" href="#">Início</a></li>
-              <li class="nav-item"><a class="nav-link" href="./login.php ">Perfil do Hospede</a></li>
+              <li class="nav-item"><a class="nav-link" href="Components/cadastro.php">Perfil do Hospede</a></li>
               <li class="nav-item"><a class="nav-link" href="#">Perfil do Funcionário</a></li>
               <li class="nav-item"><a class="nav-link" href="#">Serviços</a></li>
 
