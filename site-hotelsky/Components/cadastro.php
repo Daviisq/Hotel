@@ -138,7 +138,7 @@
 
                 <input type="submit" name="submit" value="Logar">
             </form>
-            <a href="registro.php">Não tem uma conta? Faça o cadastro</a>
+            <a href="/site-hotelsky/registro.php">Não tem uma conta? Faça o cadastro</a>
         </div>
     </div>
 </body>
