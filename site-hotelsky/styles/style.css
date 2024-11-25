@@ -1,0 +1,72 @@
+
+* {
+    margin: 0;
+    padding: 0;
+
+    scroll-behavior: smooth;
+  }
+
+  body {
+
+  }
+  
+  /*.nav {
+    display: flex;
+    justify-content: center;
+    column-gap: 10px;
+  }
+  
+  body {
+    background-image: url('./img/home.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+
+
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    color: #333;
+  }
+  
+  /* Cabeçalho 
+  .header {
+    background: #f2f9f4;
+    padding: 15px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 2px solid #ccc;
+  }
+  
+  .header .logo {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .header .logo span {
+    font-weight: normal;
+    color: #888;
+  }
+  
+  .header .book-now {
+    text-decoration: none;
+    background: #79c293;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    transition: 0.3s;
+  }
+  
+  .header .book-now:hover {
+    background: #5ea474;
+  }*/
+    
+  body{
+    /*margin-top: 50px !important;
+    height: 800px !important;*/
+
+    background: rgb(2,0,36);
+    background: linear-gradient(332deg, rgba(2,0,36,1) 0%, rgba(0,13,107,1) 100%);
+
+
+  }
