@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Teste
+namespace Sistema_PI
 {
-    internal class Diretor
+    internal class r
     {
     }
 }
